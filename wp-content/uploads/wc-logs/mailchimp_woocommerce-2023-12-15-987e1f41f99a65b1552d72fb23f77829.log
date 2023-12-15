@@ -1,0 +1,2 @@
+2023-12-15T00:34:56+00:00 NOTICE member.sync :: user_my_account_opt_in_save 0
+2023-12-15T00:34:56+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
